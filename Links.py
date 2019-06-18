@@ -7,6 +7,5 @@ class Link:
 
 
     LoginPage = LoginCloudEAPage
-
     Url = UrlPage
 
