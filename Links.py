@@ -1,11 +1,17 @@
-from PageObject.LoginCloudEA import LoginCloudEAPage,LoginCloudEAFile, UserLogin
-from PageObject import UrlPage
+from PageObject.LoginCloudEA import LoginCloudEAObject,LoginCloudEATest,UserLogin
+from PageObject.UrlPage import *
+from selenium import webdriver
 
 
 
-class Link:
+
+class Browser:
+    Chrome = webdriver.Chrome()
 
 
-    LoginPage = LoginCloudEAPage
-    Url = UrlPage
+class URL:
+    URL111 = URL.url111
+
+class LoginCloudEAPage:
+    LoginCloudEAPage = LoginCloudEAObject
 
