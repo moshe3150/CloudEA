@@ -1,23 +1,14 @@
-from PageObject.LoginCloudEA import LoginCloudEAObject
+from PageObject.LoginCloudEA import LoginCloudEAObject,LoginCloudEATest
 from PageObject.URL.UrlFile import *
 from selenium import webdriver
-import json
 
 
-class Browser:
+class Link:
+
     Chrome = webdriver.Chrome()
 
-
-class UrlFile:
     URL = UrlFile
 
-#
-# class LoginCloudEAPage:
-#     LoginCloudEAPage = LoginCloudEAObject
+    LoginCloudEAObject = LoginCloudEAObject
 
 
-class UserLogin:
-    with open(r'PageObject/LoginCloudEA/UserLogin.json') as f:
-        UserLoginFile = json.load(f)
-        username = UserLoginFile["username"]
-        password = UserLoginFile["password"]
