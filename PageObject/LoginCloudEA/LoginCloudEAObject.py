@@ -1,12 +1,13 @@
 from Links import *
 import json
+from selenium import webdriver
 
+Chrome = webdriver.Chrome()
 
 class UserLogin:
-
-    UserNameObj = Link.Chrome.find_element_by_id("email")
-    PasswordObj = Link.Chrome.find_element_by_id("password")
-    LoginButtonObj = Link.Chrome.find_element_by_xpath("/html/body/ui-root/main/ui-login/button")
+    UserNameObj = Chrome.find_element_by_id("email")
+    PasswordObj = Chrome.find_element_by_id("password")
+    LoginButtonObj = Chrome.find_element_by_xpath("/html/body/ui-root/main/ui-login/button")
 
     with open(r'PageObject/LoginCloudEA/UserLogin.json') as f:
         UserLoginFile = json.load(f)
