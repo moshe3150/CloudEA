@@ -18,6 +18,7 @@ class OpenTheCloudEA(unittest.TestCase):
             return user
         else:
             return False
+        
     UserName = Browser.Chrome.find_element_by_id("email")
     UserName.send_keys(UserLogin.username)
     Password = Browser.Chrome.find_element_by_id("password")
