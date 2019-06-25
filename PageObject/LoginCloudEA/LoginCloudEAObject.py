@@ -1,8 +1,8 @@
 from Links import *
-import json
-from selenium import webdriver
 
-Chrome = webdriver.Chrome()
+from Links import Chrome
+import json
+
 
 class UserLogin:
     UserNameObj = Chrome.find_element_by_id("email")
