@@ -1,48 +1,29 @@
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import unittest
-from Links import Link
-
+from selenium.webdriver import Chrome
+from PageObject.LoginCloudEA.LoginCloudEAObject import LoginPage
 import time
-from selenium import webdriver
-
-
 class LoginTheCloudEA(unittest.TestCase):
-        try:
-            element = WebDriverWait(Link.Chrome, 10).until(EC.presence_of_element_located((By.ID, 'email')))
-        finally:
-            Link.Chrome.get(Link.URL.url111)
 
-        Link.Chrome.maximize_window()
-        Link.Chrome.implicitly_wait(20)
-        WebDriverWait.until(EC.presence_of_element_located((By.ID, 'email')))
+    @classmethod
+    def setUpClass(cls):
+        cls.driver = Chrome(executable_path="C:/automation/CloudEA/driver/chromedriver.exe")
+        cls.driver.maximize_window()
+        cls.driver.implicitly_wait(10)
+    
+    def test_login(self):
+        driver = self.driver
+        driver.get("https://10.81.4.111/pages/login")
+        login = LoginPage(driver)
+        login.enter_username("cpmadmin")
+        login.enter_password("Welcome1!")
+        login.click_login()
+        time.sleep(10)
 
-        def test(self):
-            user = Link.Chrome
-            if WebDriverWait(Link.Chrome, 1).until(EC.presence_of_element_located((By.ID, "email"))):
-                return user
-            else:
-                return False
-        time.sleep(3000)
-        UserName = Link.LoginCloudEAObject.UserLogin.UserNameObj
-        UserName.send_keys(Link.LoginCloudEAObject.UserLogin.username)
-
-        Password = Link.LoginCloudEAObject.UserLogin.PasswordObj
-        Password.send_keys(Link.LoginCloudEAObject.password)
-
-        LoginButton = Link.LoginCloudEAObject.UserLogin.LoginButtonObj
-        LoginButton.click()
-        try:
-            element = WebDriverWait(Link.Chrome, 10).until(
-                EC.url_to_be(("https://10.81.4.111/pages/dashboard")))
-        finally:
-            Link.Chrome.quit()
+    @classmethod
+    def tearDownClass(cls):
+        cls.driver.close()
+        cls.driver.quit()
 
 
-webdriver.Chrome.quit()
-
-
-
-
-
+if __name__ == '__main__':
+    unittest.main()
