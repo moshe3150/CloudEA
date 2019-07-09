@@ -1,19 +1,14 @@
-class LoginPage():
+class open_configurations():
 
     def __init__(self, driver):
         self.driver = driver
 
-        self.username_textbox_id = "email"
-        self.password_textbox_id = "password"
-        self.login_button_xpath = "/html/body/ui-root/main/ui-login/button"
+        self.configurations_page_xpath = "/html/body/ui-root/main/ui-layout/div[2]/ui-sidebar/ul/li[5]"
+        self.hardening_set_tab_xpath = "/html/body/ui-root/main/ui-layout/div[2]/main/ui-configurations-main/div/p-tabmenu/div/ul/li[5]/a/span"
 
-    def enter_username(self, username):
-        self.driver.find_element_by_id(self.username_textbox_id).clear()
-        self.driver.find_element_by_id(self.username_textbox_id).send_keys(username)
+    def open_configuration_page(self):
+        self.driver.find_element_by_xpath(self.configurations_page_xpath).click()
 
-    def enter_password(self, password):
-        self.driver.find_element_by_id(self.password_textbox_id).clear()
-        self.driver.find_element_by_id(self.password_textbox_id).send_keys(password)
+    def enter_hardening_set_tab(self):
+        self.driver.find_element_by_xpath(self.hardening_set_tab_xpath).click()
 
-    def click_login(self):
-        self.driver.find_element_by_xpath(self.login_button_xpath).click()

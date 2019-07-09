@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="532d5b2f-b1e7-4e7f-9822-d646590aea88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Links.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEAObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEAObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEATest.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEATest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/URL/UrlFile.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,14 +16,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEATest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="289">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1561989381902" expanded="true" signature="174:190" ph="..." />
               </folding>
             </state>
           </provider>
@@ -33,14 +30,33 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateTest.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateObject.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -48,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEAObject.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="19" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -93,18 +109,21 @@
         <option value="$PROJECT_DIR$/Links.py" />
         <option value="$PROJECT_DIR$/test 1.py" />
         <option value="$PROJECT_DIR$/PageObject/LoginCloudEA/tast.py" />
-        <option value="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEAObject.py" />
-        <option value="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEATest.py" />
         <option value="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetObject.py" />
+        <option value="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEAObject.py" />
+        <option value="$PROJECT_DIR$/run_file.py" />
+        <option value="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateTest.py" />
+        <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateObject.py" />
+        <option value="$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEATest.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="1" />
-    <option name="width" value="1932" />
-    <option name="height" value="1025" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -114,12 +133,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="CloudEA" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudEA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudEA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudEA" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CloudEA" type="b2602c69:ProjectViewProjectNode" />
@@ -142,7 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,15 +174,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\automation\CloudEA" />
+      <recent name="C:\Users\azriem\PycharmProjects\e5cb0bf701287a2c73360c29b60da905\PageObject" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\azriem\PycharmProjects\e5cb0bf701287a2c73360c29b60da905\PageObject\URL" />
       <recent name="C:\Users\azriem\PycharmProjects\e5cb0bf701287a2c73360c29b60da905\PageObject\LoginCloudEA" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\azriem\PycharmProjects\e5cb0bf701287a2c73360c29b60da905\PageObject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -173,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__init__">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in LoginCloudEATest.py">
+    <configuration name="HardeningSetCreateTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="e5cb0bf701287a2c73360c29b60da905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,7 +211,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\automation\CloudEA\PageObject\HardeningSet\HardeningSetCreateTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="e5cb0bf701287a2c73360c29b60da905" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +255,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA.test_Up_Browser" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA.test_open_configurations_page" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="e5cb0bf701287a2c73360c29b60da905" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,21 +265,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;LoginCloudEATest.LoginTheCloudEA.test_Up_Browser&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="e5cb0bf701287a2c73360c29b60da905" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PageObject/LoginCloudEA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;LoginCloudEATest.LoginTheCloudEA.test_login&quot;" />
+      <option name="_new_target" value="&quot;LoginCloudEATest.LoginTheCloudEA.test_open_configurations_page&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -281,21 +313,21 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.HardeningSetCreateTest" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA" />
+      <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA.test_open_configurations_page" />
       <item itemvalue="Python tests.Unittests for PageObject.LoginCloudEA.LoginCloudEATest" />
       <item itemvalue="Python tests.Unittests in C:/automation/CloudEA/PageObject/LoginCloudEA/tast.py" />
-      <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA.test_Up_Browser" />
       <item itemvalue="Python tests.Unittests in LoginCloudEATest.py" />
-      <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA.test_login" />
-      <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA" />
-      <item itemvalue="Python.__init__" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA" />
         <item itemvalue="Python tests.Unittests in LoginCloudEATest.py" />
-        <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA.test_login" />
-        <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA.test_Up_Browser" />
+        <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python tests.Unittests for LoginCloudEATest.LoginTheCloudEA.test_open_configurations_page" />
+        <item itemvalue="Python.HardeningSetCreateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -366,39 +398,53 @@
       <option name="project" value="LOCAL" />
       <updated>1561451109546</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="change for all Test&#10;and create new test for hardenung set">
+      <created>1561990151263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561990151263</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change for all Test&#10;and create new test for hardenung set">
+      <created>1561990172517</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561990172517</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.06.30 at 15h 09m 15s.xml">
+    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.07.02 at 12h 12m 04s.xml">
       <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA_test_login - 2019.06.30 at 15h 12m 20s.xml">
-      <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.06.30 at 15h 14m 03s.xml">
+    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.07.02 at 12h 12m 43s.xml">
       <configuration name="Unittests in LoginCloudEATest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.06.30 at 15h 14m 34s.xml">
+    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA_test_open_configurations_page - 2019.07.02 at 12h 14m 23s.xml">
+      <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA.test_open_configurations_page" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA_test_open_configurations_page - 2019.07.02 at 12h 15m 49s.xml">
+      <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA.test_open_configurations_page" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.07.02 at 12h 16m 30s.xml">
       <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.06.30 at 15h 16m 28s.xml">
-      <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.06.30 at 15h 17m 31s.xml">
-      <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.07.01 at 16h 54m 25s.xml">
+    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.07.02 at 13h 21m 30s.xml">
       <configuration name="Unittests in LoginCloudEATest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.07.01 at 16h 55m 22s.xml">
+    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.07.08 at 16h 40m 43s.xml">
       <configuration name="Unittests in LoginCloudEATest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.07.01 at 16h 55m 28s.xml">
+    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.07.08 at 16h 41m 08s.xml">
+      <configuration name="Unittests in LoginCloudEATest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.07.09 at 15h 48m 18s.xml">
       <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_LoginCloudEATest_LoginTheCloudEA - 2019.07.01 at 16h 55m 31s.xml">
-      <configuration name="Unittests for LoginCloudEATest.LoginTheCloudEA" configurationId="tests" />
+    <history-entry file="Unittests_in_LoginCloudEATest_py - 2019.07.09 at 15h 48m 40s.xml">
+      <configuration name="Unittests in LoginCloudEATest.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -411,23 +457,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.23726977" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.23726977" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.3280142" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.37378114" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32719395" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32719395" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.23726977" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32719395" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,7 +484,8 @@
     <MESSAGE value="." />
     <MESSAGE value="change" />
     <MESSAGE value="change for all Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="change for all Test" />
+    <MESSAGE value="change for all Test&#10;and create new test for hardenung set" />
+    <option name="LAST_COMMIT_MESSAGE" value="change for all Test&#10;and create new test for hardenung set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,13 +502,7 @@
     <entry file="file://$PROJECT_DIR$/automation.CloudEA">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/common/by.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/common/by.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -471,61 +511,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/geckodriver.log" />
-    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
-          <caret line="410" selection-start-line="410" selection-end-line="410" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" />
     <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/a.json" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1055577769/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="731" column="6" selection-start-line="731" selection-start-column="6" selection-end-line="731" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/site-packages/urllib3/util/retry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="397" selection-start-line="397" selection-end-line="397" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/site-packages/urllib3/connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="158" selection-start-line="158" selection-end-line="158" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1055577769/builtins.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/urllib3/util/retry.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/urllib3/connection.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/support/wait.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
+    <entry file="file://C:/Python37/Lib/ntpath.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
@@ -533,50 +531,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python37/Lib/unittest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="662" selection-start-line="662" selection-end-line="662" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="896" column="8" selection-start-line="896" selection-start-column="8" selection-end-line="896" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python37/Lib/unittest/main.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
+    <entry file="file://C:/Python37/Lib/unittest/suite.py" />
+    <entry file="file://C:/Python37/Lib/unittest/case.py" />
+    <entry file="file://C:/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
     <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/tast.py" />
     <entry file="file://$PROJECT_DIR$/test 1.py" />
-    <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/UserLogin.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PageObject/URL/UrlFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -594,31 +555,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEATest.py">
+    <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/UserLogin.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1561989381902" expanded="true" signature="174:190" ph="..." />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateTest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEAObject.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" />
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#80#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PageObject/HardeningSet/HardeningSetCreateObject.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEAObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/LoginCloudEA/LoginCloudEATest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
